@@ -1,0 +1,9 @@
+pour calculer le nombre d'octet d'une image :
+
+le nombre couleurs ( lut ) x 3 octet ( rvb ) + la taille de l'image ( largeur x hauteur ) x  ( pour x octect trouver x = 2^y et ensuite on fait ) y/8 octet
+
+
+
+
+
+
